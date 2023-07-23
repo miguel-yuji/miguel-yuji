@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @miguel-yuji
 - 👀 I’m interested in make games, but I'm still learning. Thank you so much for reading.
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning creates games
+- 💞️ I’m looking to collaborate on 
 - 📫 How to reach me ...
 
 <!---
